@@ -1,0 +1,23 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playwrightjsts-spec/gitdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/playwrightjsts-spec/gitdemo/issues"
+  },
+  "homepage": "https://github.com/playwrightjsts-spec/gitdemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
